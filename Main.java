@@ -1,7 +1,6 @@
 
 package solutions;
-=======
-package com.abc;
+
 
 
 public class Main {
